@@ -1,9 +1,9 @@
-Python. Linux. Web tech. Backendish problem-solving.
+Software Engineering. Python. DevOps. Web. Cloud. Security. Backendish problem-solving.
 
 M.Sc. Computer and Systems Sciences: Information Security (Stockholm University)
 
 ---
 
-#### :books: Recent Blog Posts
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+### :books: **Latest blog posts:**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
