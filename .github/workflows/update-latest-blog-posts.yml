@@ -18,7 +18,7 @@ jobs:
       - name: Parse RSS for blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://mijolabs.remotenode.io/posts/index.xml"
+          feed_list: "https://mijo.remotenode.io/posts/index.xml"
           max_post_count: 3
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) **[$title]($url)**  $newline*$description*$newline"
           commit_message: "Update latest blog posts"
