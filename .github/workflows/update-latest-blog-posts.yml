@@ -1,5 +1,6 @@
 name: Update latest blog posts
 on:
+  workflow_call:
   workflow_dispatch:
 
 permissions:
