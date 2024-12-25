@@ -20,7 +20,7 @@ jobs:
         with:
           feed_list: "https://mijo.remotenode.io/posts/index.xml"
           max_post_count: 3
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) **[$title]($url)**  $newline*$description*$newline"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) **[$title]($url)**  $newline$description$newline"
           commit_message: "Update latest blog posts"
           enable_keepalive: false
           committer_username: mijolabs-bot
